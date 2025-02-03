@@ -5,7 +5,7 @@
 
 define e = Character("Chelik")
 
-image prologue_video = Movie(play="images/prologue/prologue_city_bg2.webm")
+image prologue_video = Movie(play="images/prologue/prologue_intro.webm")
 
 # The game starts here.
 
@@ -22,9 +22,6 @@ label start:
     # directory.
 
 
-    play sound "audio/yyyyy.mp3"  
-    scene chelik
-    pause 5
     #show eileen happy
 
     # These display lines of dialogue.
