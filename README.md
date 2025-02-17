@@ -1,2 +1,2 @@
 # RenPy
-ssss
+Removed old data from documentation
